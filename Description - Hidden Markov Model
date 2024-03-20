@@ -1,0 +1,12 @@
+Hidden Markov Model
+
+Dynamic Bayesian Networks (DBNs) extend Hidden Markov Models (HMMs), 
+sharing temporal modeling principles. Both model sequential data with hidden states evolving over time.
+However, DBNs offer more flexibility by accommodating multiple observed variables at each time 
+step and modeling complex dependencies between them. While HMMs assume a simple Markov process
+for state transitions, DBNs incorporate Bayesian networks' graphical structure, allowing richer
+representations of dependencies and more sophisticated inference. DBNs excel in tasks where 
+multiple interacting variables influence outcomes over time,
+making them powerful tools for dynamic systems modeling and prediction in various 
+fields like finance, healthcare, and speech recognition.
+
